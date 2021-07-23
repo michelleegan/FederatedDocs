@@ -32,3 +32,8 @@ Once the advisor\(s\) in your company have the WhatsApp Connect entitlement, you
 Refer to \[which Symphony REST API page?\] to enable advisors for WhatsApp Connect.  
 
 
+Note: Advisors only need the WhatsApp & SMS Connect app set to _Enabled_, _Visible_, _Installed_ for managing contacts and rooms.
+
+If an advisor will have their contacts and relevant rooms created for them by someone else at your company \(and has any other  required permissions assigned\), the advisor does not need the app to chat.   
+
+
