@@ -6,7 +6,7 @@ You can display a Symphony user’s connection request data from the Symphony Ad
 
 1. Locate the user’s details from BROWSE ACCOUNTS in the navigation bar.
 2. Click on the AUDIT TRAIL tab.
-3. Use filtering to find the specific information your need: connection requests and/or a date range
+3. Use filtering to find the specific information your need: connection requests and/or a date range.
 
 Connection requests are displayed as follows:
 
@@ -16,7 +16,7 @@ Note: The request appears to be coming from the WhatsApp user \(although it is y
 
 ## **Content Export**
 
-All messages sent and received between a Symphony advisor and a WhatsApp client are included and tagged in the content delivered to the retention archive via Symphony Content Export. Specific tags identify WhatsApp Connect messages. Symphony XML, EML and Actiance formats are supported. Refer to Appendix: Content Export Format for more information.   
+All messages sent and received between a Symphony advisor and a WhatsApp client are included and tagged in the content delivered to the retention archive via Symphony Content Export. Specific tags identify WhatsApp Connect messages. Symphony XML, EML and Actiance formats are supported. Refer to [Appendix: Content Export Format](appendix-content-export-format.md) for more information.   
 
 
 Your company may need to implement additional features in its surveillance and archiving systems to accommodate these format changes. Full documentation is available from your Symphony account team.   

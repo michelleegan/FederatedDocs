@@ -12,6 +12,8 @@
 * [About Messaging in WhatsApp Connect](about-messaging-in-whatsapp-connect.md)
 * [Customizing the WhatsApp Connect Experience](customizing-the-whatsapp-connect-experience.md)
 * [Compliance](compliance.md)
+* [Analytics for Client Activities](analytics-for-client-activities.md)
 * [Troubleshooting](troubleshooting.md)
 * [Appendix: Supported File Attachments](appendix-supported-file-attachments.md)
+* [Appendix: Content Export Format](appendix-content-export-format.md)
 

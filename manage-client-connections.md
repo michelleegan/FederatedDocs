@@ -1,8 +1,8 @@
 # Manage Client Connections
 
-### \*\*\*\*
-
 ## **Removing Clients**
+
+The [WhatsApp Connect Starter Guide](https://goto.symphony.com/rs/945-HBF-959/images/SYM_2021_1PGR_WhatApp_Starter_Guide.pdf) explains the basics of how advisors ****remove a user from a room.
 
 ## **Automatically Offboard Clients Who Don't Respond** 
 
@@ -31,5 +31,5 @@ the WhatsApp user has not responded to the last message within 24 hours.
 the WhatsApp user has not yet accepted the first invitation to communicate via WhatsApp Connect.
 
 **Unknown**  
- in some rare cases the status is Unknown.
+in some rare cases the status is Unknown.
 

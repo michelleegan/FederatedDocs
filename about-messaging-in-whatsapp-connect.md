@@ -2,7 +2,7 @@
 
 ## **Sending attachments**  
 
-Your company can choose whether to permit sending attachments via WhatsApp Connect \(for example, images and file attachments\). See Appendix 2: Supported File Attachments for more information.  
+Your company can choose whether to permit sending attachments via WhatsApp Connect \(for example, images and file attachments\). See [Appendix: Supported File Attachments](appendix-supported-file-attachments.md) for more information.  
 
 
 ## **Unsupported Content notifications**
