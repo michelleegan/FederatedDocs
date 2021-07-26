@@ -6,7 +6,7 @@ The [WhatsApp Connect Starter Guide](https://goto.symphony.com/rs/945-HBF-959/im
 
 ## **Automatically Offboard Clients Who Don't Respond** 
 
-The system now automatically offboards a client invited to WhatsApp Connect, if the client does not accept the invitation via WhatsApp within a fixed period of time. The default time period is 7 days elapsed, including weekends. The client being offboarded receives a customised template message: You have been removed from this conversation due to not accepting the Terms of Use. Messages will no longer be sent to \[client’s contact information\].
+The system now automatically offboards a client invited to WhatsApp Connect, if the client does not accept the invitation via WhatsApp within a fixed period of time. The default time period is 7 days elapsed, including weekends. The client being offboarded receives a customised template message: _You have been removed from this conversation due to not accepting the Terms of Use. Messages will no longer be sent to \[client’s contact information\]._
 
 ### Configure the Response Time after which a non-responding client is offboarded
 

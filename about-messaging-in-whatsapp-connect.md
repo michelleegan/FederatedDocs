@@ -11,7 +11,7 @@ Error messages will notify your users if they try to send unsupported content.
 
 Similarly, for features like inline replies or table insertion, not yet supported by WhatsApp Connect, you will be notified that these features are not supported and that you’ll need to convert this content to standard text prior to transmitting.
 
-If your WhatsApp client attempts to send unsupported content, they’ll receive an explanatory error message you’ll receive a message explaining that the WhatsApp client attempted to send you some unsupported content.  
+If a WhatsApp client attempts to send unsupported content, they’ll receive an explanatory error message. The advisor will receive a message explaining that the WhatsApp client attempted to send some unsupported content.  
 
 
 ## **Messaging limitations**

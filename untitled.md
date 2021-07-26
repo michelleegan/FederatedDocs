@@ -37,7 +37,11 @@ To help prevent unsolicited IMs being sent to WhatsApp users, Facebook has built
 Therefore, you may experience a delay when first chatting with a new client. The 24-hour rule means that after your invitation has been sent to your client, they must respond to it before an actual message from you will be sent to them.  
 ****
 
-If you do decide to send a message before your client responds to the initial invitation, your client will see your invitation message followed by a notification that your message is waiting for them once they accept your invitation \(as shown below\):  
+If you do decide to send a message before your client responds to the initial invitation, your client will see your invitation message followed by a notification that your message is waiting for them once they accept your invitation \(as shown below\):
+
+![A client must respond to the initial invitation before an actual message can be sent to them](.gitbook/assets/messagewaitingnotification.png)
+
+  
   
 
 
