@@ -6,7 +6,7 @@ Assigning permissions to your WhatsApp Connect advisors enables them to perform 
 
 ## How are permissions assigned?
 
-Most WhatsApp Connect permissions need to be assigned by an Administrator in your company using the Connect API. \(Permission to onboard clients can be assigned using either the Connect API or the Admin Portal.\) Permissions are available to assign to your advisors depending on the role they have within your company. For more information and a complete list of permissions available, please refer to the Symphony Federation API Reference Guide. 
+Most WhatsApp Connect permissions need to be assigned by an Administrator in your company using the Connect API. \(Permission to onboard clients can be assigned using either the Connect API or the Admin Portal.\) Permissions are available to assign to your advisors depending on the role they have within your company. For more information and a complete list of permissions available, please refer to the [Symphony Federation API Reference Guide](https://federation.readme.io/reference). 
 
 ## Permissions versus entitlements
 
