@@ -10,7 +10,7 @@ Most WhatsApp Connect permissions need to be assigned by an Administrator in you
 
 ## Permissions versus entitlements
 
-Permissions are more specific than entitlements. Entitling an advisor to the WhatsApp Connect extension app gives that advisor the right to use WhatsApp Connect. Assigning that advisor a permission gives the advisor access to functionalities within WhatsApp Connect. An entitlement is a precondition for a permission. If you want to give the permission "create:room" to an advisor, that advisor must already have the WhatsApp entitlement. See [Provisioning Your Users for WhatsApp Connect](untitled-1.md) above for more information.
+Permissions are more specific than entitlements. Entitling an advisor to the WhatsApp Connect extension app gives that advisor the right to use WhatsApp Connect. Assigning that advisor a permission gives the advisor access to functionalities within WhatsApp Connect. An entitlement is a precondition for a permission. If you want to give the permission "create:room" to an advisor, that advisor must already have the WhatsApp entitlement. See [Provisioning Your Users for WhatsApp Connect](untitled-1.md) for more information.
 
 
 

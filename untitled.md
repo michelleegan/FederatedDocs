@@ -7,7 +7,7 @@ The advisor clicks WhatsApp Connect to open the app. Two tabs display:
 * CONTACTS displays the WhatsAppConnect clients the advisor is connected with. If the advisor has permission, this tab is also used for onboarding and managing clients. 
 * ROOMS lists the WhatsAppConnect rooms the advisor is part of. If the advisor has permission, this tab is also used for creating and managing rooms.
 
-Before your advisors can chat with clients using WhatsApp Connect, the client\(s\) must be onboarded and a chat room must be created. 
+Before your advisors can chat with clients using WhatsApp Connect, the client\(s\) must be onboarded and a chat room must be created, as explained below. 
 
 ## WhatsApp Connect Starter Guide 
 

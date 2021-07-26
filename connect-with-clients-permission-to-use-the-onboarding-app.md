@@ -21,7 +21,11 @@ Once the advisor\(s\) in your company who will be onboarding clients have the Wh
 1. In the Symphony Admin Portal, locate the desired advisor in the BROWSE ACCOUNTS section of the navigation panel.
 2. In the APP SETTINGS tab, set WhatsApp Onboarding to _Enabled_, _Visible_, _Installed_ \(as shown below\).
 
-## Grant Onboarding Permission via the Connect API ****
+![ set WhatsApp Onboarding to Enabled, Visible, Installed ](.gitbook/assets/enabledvisibleinstalled%20%281%29.png)
+
+## Grant Onboarding Permission via the Connect API
+
+The following permissions allow admins at your company to perform actions related to adding and removing clients on WhatsApp Connect. For further information, please refer to the [Symphony Federation API Reference Guide](https://federation.readme.io/reference#permissions). 
 
 **create:contact**  
 The advisor is allowed to onboard and manage contacts. The New Contact button is available to an advisor with this permission, and contact fields are editable.  
@@ -32,9 +36,9 @@ The advisor is allowed to onboard contacts on behalf of other advisors at your c
 ****
 
 **on-behalf:simple-offboard**  
-The advisor is allowed to remove contacts on behalf of other advisors at your company.  
+The advisor is allowed to [remove contacts](manage-client-connections.md) on behalf of other advisors at your company.  
 ****
 
-For further information, please refer to the Symphony Federation API Reference Guide. [https://federation.readme.io/reference\#permissions](https://federation.readme.io/reference#permissions)  
+  
 
 

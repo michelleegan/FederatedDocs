@@ -16,7 +16,7 @@ Generally, Symphony recommends 10 phone numbers in production and 5 phone number
 ### Your Internal Advisors
 
 * can use WhatsApp Connect on Symphony Windows and Mac desktop and Symphony Android and iOS mobile.
-* need to be entitled to use WhatsApp Connect to chat with clients. We explain how to provision your employees with the appropriate WhatsApp Connect access later in this document. 
+* need to be entitled to use WhatsApp Connect to chat with clients. We explain how to [provision your employees](../untitled-1.md) with the appropriate WhatsApp Connect access later in this document. 
 
 ### Your External Clients
 
